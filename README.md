@@ -1,7 +1,3 @@
-Here's an updated README file with specific instructions on how to run the program and configure it:
-
----
-
 # Email OTP Sender
 
 This Java program retrieves an OTP (One-Time Password) from a database and sends it to a user via email for password reset purposes.
@@ -66,7 +62,3 @@ Ensure that your SMTP server (e.g., Gmail SMTP) allows access from less secure a
 
 - If you encounter any errors related to missing libraries or dependencies, ensure that you have correctly added the JavaMail API library to your project's classpath.
 - Check your email provider's settings to ensure that SMTP access is enabled and configured correctly.
-
----
-
-Feel free to customize the README file further according to your project's specific requirements and environment.
